@@ -1,0 +1,4 @@
+https://app.netlify.com/projects/defneastro/overview
+https://defneastro.netlify.app/about/
+
+https://docs.astro.build/en/tutorial/2-pages/5/
